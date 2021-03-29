@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
         rul.startAnimation(rotate);
 
     }
-    
+
     private void init()
     {
         moveResult = findViewById(R.id.moveResult);
